@@ -4,7 +4,6 @@ I got tired of running the GCC command to include my includeand lib folder and m
 How To:
 
 NOTE: gcc compiler is required!
-First run the python file. 
 
-You'll be asked your c project directory. Make sure your c project contains a include, lib, and src folder. (If your brand new to c and dont know what gos where, lib holds .a and .dll files, include holds .h, and src holds you c scripts). 
+First run the python file. You'll be asked your c project directory. Make sure your c project contains a include, lib, and src folder. (If your brand new to c and dont know what gos where, lib holds .a and .dll files, include holds .h, and src holds you c scripts). 
 Then type compile and enter :D.
