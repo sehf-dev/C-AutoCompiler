@@ -1,5 +1,5 @@
 # C-AutoCompiler
-I got tired of running the GCC command to include my includeand lib folder and modifying if there were no dlls or .h files. So I made a python script to do it for me. This is an easy method if your new to c and/or dont wanna learn or need cmake for the time being.
+I got tired of running the GCC command to include my include and lib folder and modifying if there were no dlls or .h files. So I made a python script to do it for me. This is an easy method if your new to c and/or dont wanna learn or need cmake for the time being.
 
 How To:
 
